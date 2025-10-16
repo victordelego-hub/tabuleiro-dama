@@ -15,7 +15,6 @@
 =======
 - ⚫ Indrid
 - ⚪ Victor Hugo
->>>>>>> 43ee184de55212ab16e9bb2a5767400563109305
 
 **PEÇAS PERDIDAS**
 
