@@ -13,7 +13,7 @@
 
 **JOGADORES**
 
-- ⚫ Peça preta
+- ⚫ Indride 
 - ⚪ Victor Hugo
 
 **PEÇAS PERDIDAS**
