@@ -13,7 +13,7 @@
 
 **JOGADORES**
 
-- ⚫ Indride 
+- ⚫ Indrid
 - ⚪ Victor Hugo
 
 **PEÇAS PERDIDAS**
